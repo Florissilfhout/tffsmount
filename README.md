@@ -18,7 +18,7 @@ This project is only tested on Linux machines.
 ## Getting started
 Make sure you have fuse installed:
 ```shell
-sudo apt install fuse
+sudo apt install libfuse2
 ```
 Set up your Python virtual environment and activate it:
 ```shell
